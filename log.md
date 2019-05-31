@@ -1,7 +1,8 @@
 # Day 1: Installing Python
-**Completion Date:** 
+**Completion Date:** 31 May 2019
 
-**Learned:** 
+**Learned:**
+How to connect Github to PyCharm
 
 # Day 2: Printing in Python
 **Completion Date:** 
