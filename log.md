@@ -5,39 +5,63 @@
 How to connect Github to PyCharm
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date:** 3 Jun 2019
 
-**Learned:** 
+**Learned:**
+String/integer concatenation
+String replacement doesn't need numbers in {}
+f-strings
 
 # Day 3: Operators
-**Completion Date:** 
+**Completion Date:** 3 Jun 2019
 
-**Learned:** 
+**Learned:**
+Difference between single, double, triple quotes
+printing raw strings
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
+**Completion Date:** 4 Jun 2019
 
-**Learned:** 
+**Learned:**
+Can overwrite a variable with different data type
+How to print data type of a var
 
 # Day 5: String Formatting
-**Completion Date:** 
+**Completion Date:** 4 Jun 2019
 
 **Learned:** 
+Casing
+Justification of printed strings and variables
+Padding
+Float precision
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date:** 6 Jun 2019
 
 **Learned:** 
+transformations to variables of lists also apply to the original
+instantiate a list off the original to keep them separate (new_list=list(original_list))
+combining lists with + or extend(list)
+sort using .sort() or sorted(list)
+printing the index prints only the first instance
+pop the last item or specified index
+items can be changed
 
 # Day 7: Ranges
-**Completion Date:** 
+**Completion Date:** 6 Jun 2019
 
-**Learned:** 
+**Learned:**
+steps in ranges
+complex way of testing divisibility
 
 # Day 8: Tuples
-**Completion Date:** 
+**Completion Date:** 7 Jun 2019
 
-**Learned:** 
+**Learned:**
+tuples have static items, cannot be changed, good for metadata etc that should not be changed
+instantiated by comma separated list, either with or without parentheses
+accessing elements in tuples and putting into variables
+can modify element of a list inside of a tuple
 
 # Day 9: Index and Slicing
 **Completion Date:** 
