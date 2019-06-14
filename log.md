@@ -64,34 +64,51 @@ accessing elements in tuples and putting into variables
 can modify element of a list inside of a tuple
 
 # Day 9: Index and Slicing
-**Completion Date:** 
+**Completion Date:** 10 Jun 2019
 
-**Learned:** 
+**Learned:**
+can slice variables
+can make a variable out of slicing another list or variable
 
 # Day 10: If/Else
-**Completion Date:** 
+**Completion Date:** 10 Jun 2019
 
 **Learned:** 
+nested if/else statements, nested inputs
+ternary operator
 
-# Day 11: For/While Loops
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 12: Augmented Assignment
-**Completion Date:** 
+# Day 11: Augmented Assignments
+**Completion Date:** 11 Jun 2019
 
 **Learned:** 
+Adding strings together with augmented assignments
+floor operator
+shift operators
+and/or operators
+multiplicative string concatenation
+
+# Day 12: Loops
+**Completion Date:** 13 Jun 2019
+
+**Learned:** 
+Formatting (indentation, etc) is important
+input in loops
+difference between while and for - while does not iterate automatically
 
 # Day 13: Continue/Break
-**Completion Date:** 
+**Completion Date:** 13 Jun 2019
 
-**Learned:** 
+**Learned:**
+continue just means move to the next step
+break gets out of the current loop being executed
+
 
 # Day 14: Module 1 Challenge
-**Completion Date:** 
+**Completion Date:** 14 Jun 2019
 
 **Learned:** 
+equality testing for variable type (just "== int", "== str", etc)
+elif for testing sequence of things
 
 # Day 15: _Topic_
 **Completion Date:** 

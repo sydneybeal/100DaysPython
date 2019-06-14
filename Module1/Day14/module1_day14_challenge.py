@@ -3,19 +3,29 @@
     Project:        100DaysPython
     File:           module1_day14_challenge.py
     Creation Date:  <REPLACE>
-    Description:    Create a program that records a collection of meals for a school cafeteria menu as well as the
-                    ingredients.
-                      i. This collection, of at least 5 meals, cannot be modified, but the ingredients for the meal can.
-                     ii. Add another five meals to the collection.
-                    iii. Print five results while skipping every other meal.
-                     iv. You realize you made a mistake with one of the meals and forgot the most important ingredient.
-                         Update the meal to add creme fraiche.
-                      v. You realize that all of these meals need a little creme fraiche. Use a loop to update all of
-                         these meals at once. Make sure you don't accidentally add too much creme fraiche. Each meal
-                         should only have it once in the ingredients list.
-                     vi. Finally, modify the program so each meal is printed with the name of the meal at the highest
-                         hierarchy and each ingredient is printed on its own line underneath the name of the meal. The
-                         ingredients should be indented to provide a natural understanding of which ingredients belong
-                         to which meal.
+    Description:    Create a program that iterates through a list of values. If the object is immutable, print the type
+                    and advance to the next step. If the object is mutable and a string, add "Allegedly" to the end. If
+                    the object is mutable and a number, take 10 (for an int) to 20 (for a float) percent off, print the
+                    new value, and overwrite the value in the existing position. If an object is not a string, number,
+                    or tuple, end the program immediately while displaying the object and the type for review.
 """
 
+content = ["Wayne is the toughest guy in Letterkenny.", list(range(0,101,10)), ("Wayne", "Dan", "Katy", "Daryl"), 10.4]
+
+for i in content:
+    # print(type(i))
+    if type(i) == tuple:
+        print("Object is immutable and is type {0}".format(type(i)))
+    else:
+        # print("Object is mutable\n")
+        if type(i) == str:
+            i += " Allegedly."
+            print(i)
+        elif type(i) == float:
+            i *= 0.8
+            print(i)
+        elif type(i) == int:
+            i *= 0.9
+            print(i)
+        else:
+            print("Object: [{0}] is type {1}".format(i, type(i)))

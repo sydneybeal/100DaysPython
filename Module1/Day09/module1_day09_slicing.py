@@ -15,3 +15,19 @@ print(quotes[2:5])
 print(quotes[::5])
 
 print(quotes[::-1])
+
+print(quotes[0][::2])
+print(quotes[0][::-1])
+
+wayne = "Toughest Guy in Letterkenny"
+print(wayne[::-1])
+
+print("That's a Texas sized 10-4."[0:9:2])
+
+print(quotes[:])
+print(quotes[3:])
+print(quotes[:3])
+print(quotes[::3])
+
+exchange = quotes[2:5]
+print(exchange)
