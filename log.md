@@ -110,52 +110,84 @@ break gets out of the current loop being executed
 equality testing for variable type (just "== int", "== str", etc)
 elif for testing sequence of things
 
-# Day 15: _Topic_
+# Day 15: Dictionaries
+**Completion Date:** 17 Jun 2019
+
+**Learned:**
+one key can have a list of values that can be retrieved by slicing
+can add keys in any order
+comparing dictionaries
+accessing list of keys and values
+accessing key in a tuple, accessing values by tuple slicing or lookup by key
+default values for incorrect keys or pre-set information
+
+# Day 16: Sets
+**Completion Date:** 17 Jun 2019
+
+**Learned:**
+creating sets with {} or keyword "sets"
+mutable and iterable
+determining the different or overlapping elements
+.difference_update(<other set>) removes elements that are already in other set with no output, changes the set
+.symmetric_difference(<other set>) returns elements unique to one of the sets, does not change the set
+.symmetric_difference_update(<other set>) does the same but changes the set
+sorting, removing, discarding (remove throws error, discard does not), use try and except for "remove"
+frozenSet cannot be modified, immutable
+.clear() to empty the set
+
+# Day 17: User Input
+**Completion Date:** 18 Jun 2019
+
+**Learned:** 
+storing input in variable
+interactive input with conditional statements comparing strings
+
+# Day 18: Packages
+**Completion Date:** 18 Jun 2019
+
+**Learned:** 
+determining all the builtins
+standard library packages can be imported at the top with an import statement, without having to install them (e.g. random)
+turtle package brings up its own gui
+opening web browsers and finding help
+time.time(), datetime
+interacting with filesystem
+installing extra packages with pip
+
+# Day 19: File Input/Output
+**Completion Date:** 19 Jun 2019
+
+**Learned:** 
+printing working directory/change directory
+nested file opening/appending
+
+# Day 20: Functions
+**Completion Date:** 20 Jun 2019
+
+**Learned:** 
+blank lines before and after function
+need to be defined before can be called
+calling functions from other other functions
+docstrings and .__doc__ object
+typestrings for autocomplete hints and docstring details
+
+# Day 21: Pytest
+**Completion Date:** 21 Jun 2019
+
+**Learned:** 
+
+# Day 22: Recursive Functions
+**Completion Date:** 
+
+
+**Learned:** 
+
+# Day 23: Lambdas
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 16: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 17: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 18: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 19: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 20: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 21: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 22: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 23: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 24: _Topic_
+# Day 24: Object Oriented Python
 **Completion Date:** 
 
 **Learned:** 
