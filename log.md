@@ -175,34 +175,42 @@ typestrings for autocomplete hints and docstring details
 **Completion Date:** 21 Jun 2019
 
 **Learned:** 
+setting up configuration to run pytests
 
 # Day 22: Recursive Functions
-**Completion Date:** 
-
+**Completion Date:** 28 Jun 2019
 
 **Learned:** 
+Fibonacci of 20000 is a very very long number
+Was able to execute higher than the recursion limit on cached recursion but not regular recursion
 
 # Day 23: Lambdas
-**Completion Date:** 
+**Completion Date:** 28 Jun 2019
 
 **Learned:** 
+getting into the habit of writing with few lines makes you a more efficient and creative Python problem solver
+lambda is simpler and shorter but more limited in functionality than regular functions - multiway comparisons, docstrings, etc
 
 # Day 24: Object Oriented Python
+**Completion Date:** 28 Jun 2019
+
+**Learned:** 
+Python pillars are app development, data science, and web development - OOP falls under app development
+Decorators "wrap" functions - can pass a function as a param to another function, extends the behavior of the higher up function w/o changing it
+Inner functions are defined inside other functions, if they are defined by another variable they can be accessed
+Decorators can be over-complicated, but classes help keep code simple and have more functionality than tuples and dictionaries
+
+# Day 25: List Comprehensions
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 25: _Topic_
+# Day 26: Map, Filter, and Zip
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 26: _Topic_
-**Completion Date:** 
-
-**Learned:** 
-
-# Day 27: _Topic_
+# Day 27: Logging
 **Completion Date:** 
 
 **Learned:** 
@@ -212,67 +220,67 @@ typestrings for autocomplete hints and docstring details
 
 **Learned:** 
 
-# Day 29: _Topic_
+# Day 29: File Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 30: _Topic_
+# Day 30: File Search
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 31: _Topic_
+# Day 31: CSV Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 32: _Topic_
+# Day 32: Excel Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 33: _Topic_
+# Day 33: PDF Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 34: _Topic_
+# Day 34: PowerPoint Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 35: _Topic_
+# Day 35: Task Scheduler
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 36: _Topic_
+# Day 36: Email/SMS Notifications
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 37: _Topic_
+# Day 37: Mouse/Keyboard Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 38: _Topic_
+# Day 38: Web Automation
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 39: _Topic_
+# Day 39: Stock Market Data Collection
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 40: _Topic_
+# Day 40: Image Manipulations
 **Completion Date:** 
 
 **Learned:** 
 
-# Day 41: _Topic_
+# Day 41: Creating a Chatbot
 **Completion Date:** 
 
 **Learned:** 

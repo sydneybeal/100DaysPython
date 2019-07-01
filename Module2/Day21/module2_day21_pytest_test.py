@@ -1,9 +1,9 @@
 """
-    Author:         CaptCorpMURICA
+    Author:         <REPLACE>
     Project:        100DaysPython
-    File:           module2_day21_pytest_test.py
-    Creation Date:  6/11/2019, 8:13 PM
-    Description:    Learn the basics of pytest. This will conduct tests on the module2_day21_pytest.py file.
+    File:           module1_day21_pytest_test.py
+    Creation Date:  <REPLACE>
+    Description:    <REPLACE>
 """
 
 import pytest
