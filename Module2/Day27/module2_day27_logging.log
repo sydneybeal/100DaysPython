@@ -1,0 +1,11 @@
+DEBUG: 2019-07-02 18:52:07,355 - This is a custom debug message.
+INFO: 2019-07-02 18:52:07,355 - This is a custom info message.
+WARNING: 2019-07-02 18:52:07,355 - This is a custom warning message.
+ERROR: 2019-07-02 18:52:07,355 - This is a custom error message.
+CRITICAL: 2019-07-02 18:52:07,355 - This is a custom critical message.
+INFO: 2019-07-02 18:52:07,355 - Quadratic Formula Solver: 3x^2 + 4x + 5 = 0
+DEBUG: 2019-07-02 18:52:07,355 - Calculate the discriminant: 4^2 - 4*3*5
+DEBUG: 2019-07-02 18:52:07,356 - Discriminant: -44
+DEBUG: 2019-07-02 18:52:07,356 - Calculate the pos/neg roots: (-4 +/- sqrt(-44)) / (2*3)
+DEBUG: 2019-07-02 18:52:07,356 - Positive Root: (-0.6666666666666666+1.1055415967851332j), Negative Root: (-0.6666666666666666-1.1055415967851332j)
+DEBUG: 2019-07-02 18:52:07,356 - Function Complete

@@ -201,19 +201,29 @@ Inner functions are defined inside other functions, if they are defined by anoth
 Decorators can be over-complicated, but classes help keep code simple and have more functionality than tuples and dictionaries
 
 # Day 25: List Comprehensions
-**Completion Date:** 
+**Completion Date:** 30 Jun 2019
 
-**Learned:** 
+**Learned:**
+Shorter way to create lists
+accessing tuple elements in list comprehensions
 
 # Day 26: Map, Filter, and Zip
-**Completion Date:** 
+**Completion Date:** 30 Jun 2019
 
 **Learned:** 
+lambdas and filters can be used to create and print complicated lists all with one line of code
+zipping combines elements from several lists into one big object
+reduce() exists but is irrelevant
 
 # Day 27: Logging
-**Completion Date:** 
+**Completion Date:** 30 Jun 2019
 
 **Learned:** 
+logger.setLevel("INFO") changes the level of logging
+logs can be formatted
+filemode="w" switches it from append mode to overwrite mode
+logging can show explicit inputs and outputs from functions and what is actually occuring
+
 
 # Day 28: Module 2 Challenge
 **Completion Date:** 
