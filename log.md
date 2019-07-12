@@ -226,24 +226,39 @@ logging can show explicit inputs and outputs from functions and what is actually
 
 
 # Day 28: Module 2 Challenge
-**Completion Date:** 
+**Completion Date:** 12 July 2019
 
-**Learned:** 
+**Learned:**
+stacked loops for user input
+looping through dictionaries and matching to input letters
+incorporating logging throughout a program
+encrypting and decrypting phrases
 
 # Day 29: File Manipulations
-**Completion Date:** 
+**Completion Date:** 12 July 2019
 
-**Learned:** 
+**Learned:**
+os.listDir() function to get list of file names
+splitting file names from extensions, and splitting by a specified delimiter
+padding to sort correctly
+renaming files
 
 # Day 30: File Search
-**Completion Date:** 
+**Completion Date:** 12 July 2019
 
 **Learned:** 
+Walking through files in a directory
+Searching vast range of documents for a single phrase of text
+Loading up search lines and looping through the enumeration
 
 # Day 31: CSV Manipulations
-**Completion Date:** 
+**Completion Date:** 12 July 2019
 
 **Learned:** 
+opening CSVs in overwrite or append mode
+commas can be included if string is in quotes
+CSVs are type agnostic
+Using read mode and secondary file to check if a record exists before entering
 
 # Day 32: Excel Manipulations
 **Completion Date:** 

@@ -1,7 +1,7 @@
 # Day 29: File Manipulations 
 **Instructions:** 
 1. Open a new python file.
-2. Have you ever needed to manipulate a large number of files or repeatably update files to add consistency for a process? Often, I will download an entire course for offline consumption. Sometimes, these files are in a consistent format, but it's not in an ideal format for sequential viewing. Included, there are ten `.mp3` files that contain the module name, day name, track number, and extension. This is a clean format, but it may not play each sequential track in order. For this purpose, 2. Have you ever needed to manipulate a large number of files or repeatably update files to add consistency for a process? Often, I will download an entire course for offline consumption. Sometimes, these files are in a consistent format, but it's not in an ideal format for sequential viewing. Included, there are ten `.mp3` files that contain the track name, module name, day name, track number, and extension. This is a clean format, but it will not play in the proper order because the files are first sorted by the track name in alphabetical order. For this purpose, it would be preferable to have the format `track no - name.mp3`.
+2. Have you ever needed to manipulate a large number of files or repeatably update files to add consistency for a process? Often, I will download an entire course for offline consumption. Sometimes, these files are in a consistent format, but it's not in an ideal format for sequential viewing. Included, there are ten `.mp3` files that contain the module name, day name, track number, and extension. This is a clean format, but it may not play each sequential track in order. For this purpose, it would be preferable to have the format `track no - name.mp3`.
     ```
     import os
 
@@ -33,4 +33,4 @@
         new_name = f"{track}-{title}{file_ext}"
         os.rename(file, new_name)
     ```
-3. Update the [log file](../../../../../Downloads/100DaysPython-master/log.md) with what you have learned today. 
+3. Update the [log file](../../../../Downloads/100DaysPython-master%203/log.md) with what you have learned today. 

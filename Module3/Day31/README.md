@@ -82,4 +82,4 @@
             else:
                 writer.writerow(row)
     ```
-10. Update the [log file](../../../../../Downloads/100DaysPython-master/log.md) with what you have learned today.
+10. Update the [log file](../../../../Downloads/100DaysPython-master%203/log.md) with what you have learned today.

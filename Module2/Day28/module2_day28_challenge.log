@@ -1,0 +1,164 @@
+INFO: 2019-07-12 11:42:08,622 - Code word entered: zebra
+INFO: 2019-07-12 11:42:08,622 - Code word entry successful: zebra
+INFO: 2019-07-12 11:42:15,057 - Method entered: e
+INFO: 2019-07-12 11:42:15,057 - Starts with e --> encrypt
+INFO: 2019-07-12 11:42:35,623 - Crypto-conversion successful: {'a': 'z', 'b': 'e', 'c': 'b', 'd': 'r', 'e': 'a', 'f': 'c', 'g': 'd', 'h': 'f', 'i': 'g', 'j': 'h', 'k': 'i', 'l': 'j', 'm': 'k', 'n': 'l', 'o': 'm', 'p': 'n', 'q': 'o', 'r': 'p', 's': 'q', 't': 's', 'u': 't', 'v': 'u', 'w': 'v', 'x': 'w', 'y': 'x', 'z': 'y'}
+INFO: 2019-07-12 11:42:35,623 - Got crypto-conversion
+INFO: 2019-07-12 11:42:35,623 - Letter entered: i
+Conversion: g
+Word now: g
+INFO: 2019-07-12 11:42:35,623 - Letter entered: a
+Conversion: z
+Word now: gz
+INFO: 2019-07-12 11:42:35,623 - Letter entered: m
+Conversion: k
+Word now: gzk
+INFO: 2019-07-12 11:42:35,623 - Letter entered: t
+Conversion: s
+Word now: gzks
+INFO: 2019-07-12 11:42:35,623 - Letter entered: e
+Conversion: a
+Word now: gzksa
+INFO: 2019-07-12 11:42:35,623 - Letter entered: s
+Conversion: q
+Word now: gzksaq
+INFO: 2019-07-12 11:42:35,623 - Letter entered: t
+Conversion: s
+Word now: gzksaqs
+INFO: 2019-07-12 11:42:35,623 - Letter entered: i
+Conversion: g
+Word now: gzksaqsg
+INFO: 2019-07-12 11:42:35,623 - Letter entered: n
+Conversion: l
+Word now: gzksaqsgl
+INFO: 2019-07-12 11:42:35,624 - Letter entered: g
+Conversion: d
+Word now: gzksaqsgld
+INFO: 2019-07-12 11:42:35,624 - Letter entered: t
+Conversion: s
+Word now: gzksaqsglds
+INFO: 2019-07-12 11:42:35,624 - Letter entered: h
+Conversion: f
+Word now: gzksaqsgldsf
+INFO: 2019-07-12 11:42:35,624 - Letter entered: e
+Conversion: a
+Word now: gzksaqsgldsfa
+INFO: 2019-07-12 11:42:35,624 - Letter entered: a
+Conversion: z
+Word now: gzksaqsgldsfaz
+INFO: 2019-07-12 11:42:35,624 - Letter entered: p
+Conversion: n
+Word now: gzksaqsgldsfazn
+INFO: 2019-07-12 11:42:35,624 - Letter entered: p
+Conversion: n
+Word now: gzksaqsgldsfaznn
+INFO: 2019-07-12 11:42:35,624 - Letter entered: l
+Conversion: j
+Word now: gzksaqsgldsfaznnj
+INFO: 2019-07-12 11:42:35,624 - Letter entered: i
+Conversion: g
+Word now: gzksaqsgldsfaznnjg
+INFO: 2019-07-12 11:42:35,624 - Letter entered: c
+Conversion: b
+Word now: gzksaqsgldsfaznnjgb
+INFO: 2019-07-12 11:42:35,624 - Letter entered: a
+Conversion: z
+Word now: gzksaqsgldsfaznnjgbz
+INFO: 2019-07-12 11:42:35,625 - Letter entered: t
+Conversion: s
+Word now: gzksaqsgldsfaznnjgbzs
+INFO: 2019-07-12 11:42:35,625 - Letter entered: i
+Conversion: g
+Word now: gzksaqsgldsfaznnjgbzsg
+INFO: 2019-07-12 11:42:35,625 - Letter entered: o
+Conversion: m
+Word now: gzksaqsgldsfaznnjgbzsgm
+INFO: 2019-07-12 11:42:35,625 - Letter entered: n
+Conversion: l
+Word now: gzksaqsgldsfaznnjgbzsgml
+INFO: 2019-07-12 11:42:35,625 - Message successfully encrypted
+Codeword: zebra
+Message: I am testing the application
+Converted message: gzksaqsgldsfaznnjgbzsgml
+INFO: 2019-07-12 11:42:43,212 - Code word entered: zebra
+INFO: 2019-07-12 11:42:43,212 - Code word entry successful: zebra
+INFO: 2019-07-12 11:42:44,157 - Method entered: d
+INFO: 2019-07-12 11:42:44,158 - Starts with d --> decrypt
+INFO: 2019-07-12 11:42:44,968 - Crypto-conversion successful: {'a': 'z', 'b': 'e', 'c': 'b', 'd': 'r', 'e': 'a', 'f': 'c', 'g': 'd', 'h': 'f', 'i': 'g', 'j': 'h', 'k': 'i', 'l': 'j', 'm': 'k', 'n': 'l', 'o': 'm', 'p': 'n', 'q': 'o', 'r': 'p', 's': 'q', 't': 's', 'u': 't', 'v': 'u', 'w': 'v', 'x': 'w', 'y': 'x', 'z': 'y'}
+INFO: 2019-07-12 11:42:44,968 - Got crypto-conversion
+INFO: 2019-07-12 11:42:44,968 - Letter entered: g
+Conversion: i
+Word now: i
+INFO: 2019-07-12 11:42:44,968 - Letter entered: z
+Conversion: a
+Word now: ia
+INFO: 2019-07-12 11:42:44,969 - Letter entered: k
+Conversion: m
+Word now: iam
+INFO: 2019-07-12 11:42:44,969 - Letter entered: s
+Conversion: t
+Word now: iamt
+INFO: 2019-07-12 11:42:44,969 - Letter entered: a
+Conversion: e
+Word now: iamte
+INFO: 2019-07-12 11:42:44,969 - Letter entered: q
+Conversion: s
+Word now: iamtes
+INFO: 2019-07-12 11:42:44,969 - Letter entered: s
+Conversion: t
+Word now: iamtest
+INFO: 2019-07-12 11:42:44,969 - Letter entered: g
+Conversion: i
+Word now: iamtesti
+INFO: 2019-07-12 11:42:44,969 - Letter entered: l
+Conversion: n
+Word now: iamtestin
+INFO: 2019-07-12 11:42:44,969 - Letter entered: d
+Conversion: g
+Word now: iamtesting
+INFO: 2019-07-12 11:42:44,969 - Letter entered: s
+Conversion: t
+Word now: iamtestingt
+INFO: 2019-07-12 11:42:44,969 - Letter entered: f
+Conversion: h
+Word now: iamtestingth
+INFO: 2019-07-12 11:42:44,969 - Letter entered: a
+Conversion: e
+Word now: iamtestingthe
+INFO: 2019-07-12 11:42:44,969 - Letter entered: z
+Conversion: a
+Word now: iamtestingthea
+INFO: 2019-07-12 11:42:44,969 - Letter entered: n
+Conversion: p
+Word now: iamtestingtheap
+INFO: 2019-07-12 11:42:44,969 - Letter entered: n
+Conversion: p
+Word now: iamtestingtheapp
+INFO: 2019-07-12 11:42:44,969 - Letter entered: j
+Conversion: l
+Word now: iamtestingtheappl
+INFO: 2019-07-12 11:42:44,969 - Letter entered: g
+Conversion: i
+Word now: iamtestingtheappli
+INFO: 2019-07-12 11:42:44,969 - Letter entered: b
+Conversion: c
+Word now: iamtestingtheapplic
+INFO: 2019-07-12 11:42:44,969 - Letter entered: z
+Conversion: a
+Word now: iamtestingtheapplica
+INFO: 2019-07-12 11:42:44,970 - Letter entered: s
+Conversion: t
+Word now: iamtestingtheapplicat
+INFO: 2019-07-12 11:42:44,970 - Letter entered: g
+Conversion: i
+Word now: iamtestingtheapplicati
+INFO: 2019-07-12 11:42:44,970 - Letter entered: m
+Conversion: o
+Word now: iamtestingtheapplicatio
+INFO: 2019-07-12 11:42:44,970 - Letter entered: l
+Conversion: n
+Word now: iamtestingtheapplication
+INFO: 2019-07-12 11:42:44,970 - Message successfully decrypted
+Codeword: zebra
+Message: gzksaqsgldsfaznnjgbzsgml
+Converted message: iamtestingtheapplication
