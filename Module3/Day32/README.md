@@ -57,4 +57,4 @@
 
     sales_wb.save("Sales.xlsx")
     ```
-8. Update the [log file](../../../../../Downloads/100DaysPython-master/log.md) with what you have learned today.
+8. Update the [log file](../../log.md) with what you have learned today.

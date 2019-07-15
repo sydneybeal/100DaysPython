@@ -30,4 +30,4 @@
     ```
     os.remove("census_temp.csv")
     ```
-7. Update the [log file](../../../../../Downloads/100DaysPython-master/log.md) with what you have learned today.
+7. Update the [log file](../../../../Downloads/100DaysPython-master%203/log.md) with what you have learned today.

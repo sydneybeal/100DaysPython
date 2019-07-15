@@ -8,4 +8,4 @@
     4. The results should be written to a file and an email should be sent to confirm the number of houses identified.
     5. This should be able to able to distinguish between a new house and a house already captured by the program. Only add the new houses to the file.
     6. Add the homes to a PowerPoint deck for easy review.
-3. Update the [log file](../../../../../Downloads/100DaysPython-master/log.md) with what you have learned today.
+3. Update the [log file](../../log.md) with what you have learned today.

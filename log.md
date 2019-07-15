@@ -261,29 +261,43 @@ CSVs are type agnostic
 Using read mode and secondary file to check if a record exists before entering
 
 # Day 32: Excel Manipulations
-**Completion Date:** 
+**Completion Date:** 14 July 2019
 
-**Learned:** 
+**Learned:**
+opening and manipulating excel documents in Python
+storing data from excel docs into variables
+using loops to automate excel data entry
 
 # Day 33: PDF Manipulations
-**Completion Date:** 
+**Completion Date:** 14 July 2019
 
 **Learned:** 
+Using tabula to read a pdf and write all to a temp file
+Cleaning input data of extraneous lines, null columns, etc
 
 # Day 34: PowerPoint Manipulations
-**Completion Date:** 
+**Completion Date:** 14 July 2019
 
-**Learned:** 
+**Learned:**
+Storing all information from a powerpoint into a Python object
+Storing and manipulating elements from each slide
+Automatically generating and writing to a PPT file
 
 # Day 35: Task Scheduler
-**Completion Date:** 
+**Completion Date:** 14 July 2019
 
 **Learned:** 
+locating python executable with print sys.executable
+different operating systems have different methods for opening files
+setting a timer to launch a specific file in its default application
+system scheduler can be paired with python to automate boot-up or create timed sequences
 
 # Day 36: Email/SMS Notifications
-**Completion Date:** 
+**Completion Date:** 14 July 2019
 
 **Learned:** 
+Setting gmail settings to allow unsecure apps to log in with my credentials
+Automatically sending email notifications
 
 # Day 37: Mouse/Keyboard Manipulations
 **Completion Date:** 

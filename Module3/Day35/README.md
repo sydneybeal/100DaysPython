@@ -41,4 +41,4 @@
         print("Goodbye")
     ```
 5. Additionally, each operating system comes equipped with a task scheduler. This can be used to execute python scripts when the computer is turned on or at specific intervals. If there are a series of scripts or applications that should be executed during the booting sequence, a single python script can be used to open all of the programs and execute certain commands. For instance, a python script can be launched through the system task scheduler to open a specific web page and login automatically.
-6. Update the [log file](../../../../../Downloads/100DaysPython-master/log.md) with what you have learned today.
+6. Update the [log file](../../../../Downloads/100DaysPython-master%203/log.md) with what you have learned today.

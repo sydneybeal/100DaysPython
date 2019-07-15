@@ -77,4 +77,4 @@
     # After the content is added, the presentation is saved.
     new_pres.save('auto_pres.pptx')
     ```
-9. Update the [log file](../../../../../Downloads/100DaysPython-master/log.md) with what you have learned today.
+9. Update the [log file](../../../../Downloads/100DaysPython-master%203/log.md) with what you have learned today.
